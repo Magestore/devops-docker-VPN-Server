@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER Jordi Gimenez <info@mobilejazz.com>
+MAINTAINER Robert <trungthin.luong@trueplus.vn>
 
 ENV REFRESHED_AT 2016-10-01
 ENV SWAN_VER 3.18
