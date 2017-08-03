@@ -15,6 +15,14 @@ Follow [these instructions](https://docs.docker.com/engine/installation/) to get
 
 ## How to use this image
 
+### First time to use
+
+Run build command to build docker image as name magestore/docker-ipsec-vpn-server
+
+```
+./build.sh
+```
+
 ### Start the IPsec VPN server
 
 Download [this repo](https://github.com/mobilejazz/docker-ipsec-vpn-server/archive/master.zip), `unzip` it and `cd` into it.
