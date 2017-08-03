@@ -1,2 +1,2 @@
 #!/bin/sh
-./docker/build.sh
+cd ./docker && ./build.sh
